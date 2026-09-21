@@ -1,7 +1,7 @@
 title: Crypto Insights
 description: Automated crypto market analysis — trending coins, DeFi yields, and protocol deep dives.
 baseurl: "/crypto-insights"
-url: "https://superorastudio.github.io"
+url: "https://alexcipher-cre.github.io"
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 kramdown:
