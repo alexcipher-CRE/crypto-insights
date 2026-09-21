@@ -224,6 +224,62 @@ footer a {
     text-align: center;
 }
 
+/* Ad slots */
+.ad-slot {
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+    margin: 2rem 0;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    padding: 1.5rem;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ad-leaderboard { max-width: 728px; margin: 0 auto; }
+.ad-sidebar { position: sticky; top: 2rem; }
+.ad-label {
+    position: absolute;
+    top: 4px;
+    right: 8px;
+    font-size: 0.7rem;
+    opacity: 0.5;
+}
+
+/* Newsletter */
+.newsletter-form {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+.newsletter-form input[type="email"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.75rem 1rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-primary);
+    margin: 0.5rem 0;
+}
+.newsletter-form button {
+    background: linear-gradient(135deg, var(--accent), var(--accent-secondary));
+    color: white;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}
+.newsletter-form button:hover { opacity: 0.9; }
+
 @media (max-width: 600px) {
     .container {
         padding: 1rem;

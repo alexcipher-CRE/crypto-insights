@@ -19,10 +19,24 @@ layout: default
     <p>We send one email per day. Unsubscribe anytime. Your email is never sold or shared.</p>
     
     <!-- Buttondown signup form (free up to 100 subscribers) -->
-    <form action="https://buttondown.email/api/emails/embed-subscribe/cryptoinsights" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/cryptoinsights', 'popupwindow')" class="newsletter-form">
-        <input type="email" name="email" placeholder="your@email.com" required>
-        <input type="submit" value="Subscribe Free">
-    </form>
+    <div class="newsletter-form">
+        <form action="https://buttondown.email/api/emails/embed-subscribe/cryptoinsights" method="post" target="_blank">
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                <input type="email" name="email" placeholder="your@email.com" required style="flex: 1; min-width: 250px; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-secondary); color: var(--text-primary); font-size: 1rem;">
+                <input type="submit" value="Subscribe Free" style="padding: 0.75rem 1.5rem; border-radius: 8px; border: none; background: linear-gradient(135deg, var(--accent), var(--accent-secondary)); color: white; font-weight: 600; cursor: pointer; font-size: 1rem;">
+            </div>
+        </form>
+        
+        <div style="margin-top: 1rem; padding: 0.75rem; background: var(--bg-secondary); border-radius: 8px; border: 1px solid var(--border);">
+            <strong>📈 Premium Insights ($5/mo)</strong><br>
+            Get advanced analytics: portfolio tracking, custom alerts, early DeFi yield alerts, and exclusive protocol reviews.
+            <div style="margin-top: 0.5rem;">
+                <form action="https://buy.stripe.com/test_crypto_insights_premium" method="get">
+                    <input type="submit" value="Upgrade via Stripe (Test)" style="padding: 0.4rem 1rem; background: var(--accent); color: white; border: none; border-radius: 6px; font-weight: 600; cursor: pointer;">
+                </form>
+            </div>
+        </div>
+    </div>
     
     <h2>📊 Current Issue Preview</h2>
     
