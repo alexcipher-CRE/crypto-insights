@@ -15,6 +15,14 @@ layout: default
         <li>🔗 <strong>Protocol Analysis</strong> — TVL, chains, and category breakdowns</li>
     </ul>
     
+    <h2>📖 Site Sections</h2>
+    <ul>
+        <li>📰 <strong>Blog</strong> — Daily posts on trending coins, yields, and market movers</li>
+        <li>💸 <strong>DeFi Earning Strategies</strong> — Ranked by risk level (low/moderate/aggressive)</li>
+        <li>📬 <strong>Newsletter</strong> — Get daily market insights delivered to your inbox</li>
+        <li>📡 <strong>RSS Feed</strong> — Subscribe via any RSS reader</li>
+    </ul>
+    
     <h2>💰 How This Site Makes Money</h2>
     <p>This is a <strong>zero-investment affiliate revenue project</strong>. The site contains referral links to crypto exchanges (Binance, Bybit, Kraken). When you sign up through these links and trade, the site earns a commission — <strong>at zero cost to you</strong>.</p>
     
@@ -48,3 +56,26 @@ layout: default
     <p>{{ post.excerpt | default: post.content | truncate: 200 }}</p>
 </div>
 {% endfor %}
+
+<div class="post">
+    <h2>📬 Subscribe for Free</h2>
+    <p>Get crypto market insights delivered to your inbox daily. No spam. Unsubscribe anytime.</p>
+    <a href="{{ '/newsletter' | relative_url }}" class="btn-subscribe">Subscribe to Newsletter</a>
+</div>
+
+<style>
+.btn-subscribe {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: linear-gradient(135deg, var(--accent), var(--accent-secondary));
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+.btn-subscribe:hover {
+    opacity: 0.9;
+    text-decoration: none;
+}
+</style>
