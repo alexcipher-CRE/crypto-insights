@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1>Welcome to Crypto Insights</h1>
+    
+    <p>This site is <strong>100% automatically generated</strong> — scanning CoinGecko and DeFiLlama APIs every 2 hours to bring you the latest crypto market trends, DeFi yield opportunities, and protocol deep dives.</p>
+    
+    <h2>📊 What We Track</h2>
+    <ul>
+        <li>🔥 <strong>Trending Coins</strong> — social volume, search interest, trading activity</li>
+        <li>🏦 <strong>DeFi Yields</strong> — best sustainable APY across 50+ chains</li>
+        <li>📈 <strong>Market Movers</strong> — biggest gainers and losers (24h)</li>
+        <li>🔗 <strong>Protocol Analysis</strong> — TVL, chains, and category breakdowns</li>
+    </ul>
+    
+    <h2>💰 How This Site Makes Money</h2>
+    <p>This is a <strong>zero-investment affiliate revenue project</strong>. The site contains referral links to crypto exchanges (Binance, Bybit, Kraken). When you sign up through these links and trade, the site earns a commission — <strong>at zero cost to you</strong>.</p>
+    
+    <p>All content is generated using open-source tools and free APIs:</p>
+    <ul>
+        <li>CoinGecko API — market data</li>
+        <li>DeFiLlama API — TVL and yields</li>
+        <li>Python + SQLAlchemy — data pipeline</li>
+        <li>Jekyll + GitHub Pages — hosting</li>
+    </ul>
+    
+    <h2>⚠️ Disclaimer</h2>
+    <blockquote>
+        <p>This is <strong>not financial advice</strong>. Always do your own research (DYOR) before investing in any cryptocurrency. Past performance does not guarantee future results.</p>
+    </blockquote>
+    
+    <h2>📝 Latest Posts</h2>
+</div>
+
+{% for post in site.posts limit:10 %}
+<div class="post">
+    <div class="post-meta">
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+        {% if post.tags.size > 0 %}
+            {% for tag in post.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        {% endif %}
+    </div>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt | default: post.content | truncate: 200 }}</p>
+</div>
+{% endfor %}

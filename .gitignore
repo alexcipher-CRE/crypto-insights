@@ -1,0 +1,19 @@
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+_site/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

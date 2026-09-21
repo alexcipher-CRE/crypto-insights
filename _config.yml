@@ -1,0 +1,41 @@
+title: Crypto Insights
+description: Automated crypto market analysis — trending coins, DeFi yields, and protocol deep dives.
+baseurl: "/crypto-insights"
+url: "https://superorastudio.github.io"
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+author:
+  name: Alex Cipher
+  twitter: alexcipher
+  github: superorastudio
+
+# Google Analytics (empty - no tracking)
+ga: 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .jekyll-cache
+  - .sass-cache
+  - node_modules
+  - vendor
