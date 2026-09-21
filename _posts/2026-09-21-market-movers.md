@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-21
 
-*Last updated: 2026-09-21 21:30 UTC*
+*Last updated: 2026-09-21 23:30 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,11 +14,11 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Pepe (PEPE) | $0.000005 | +21.5% | $1,021,575,117 |
-| Sui (SUI) | $1.01 | +15.0% | $1,965,732,090 |
-| Dogecoin (DOGE) | $0.098574 | +13.5% | $2,550,836,248 |
-| XRP (XRP) | $1.52 | +8.6% | $5,572,295,901 |
-| Solana (SOL) | $119.06 | +8.3% | $6,673,822,944 |
+| Bittensor (TAO) | $313.75 | +19.9% | $638,987,462 |
+| Pepe (PEPE) | $0.000005 | +19.2% | $1,060,325,696 |
+| Sui (SUI) | $1.03 | +16.3% | $1,995,903,358 |
+| Dogecoin (DOGE) | $0.100114 | +14.7% | $2,736,927,830 |
+| XRP (XRP) | $1.54 | +9.4% | $6,168,853,663 |
 
 ## 📊 Key Takeaways
 
