@@ -28,6 +28,28 @@
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} Feed" href="{{ '/feed.xml' | relative_url }}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | relative_url }}">
     
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ page.layout | default: 'WebPage' }}",
+      "headline": "{{ page.title | default: site.title }}",
+      "description": "{{ page.description | default: site.description }}",
+      "url": "{{ page.url | absolute_url | default: site.url }}",
+      "datePublished": "{{ page.date | default: site.time | date: '%Y-%m-%dT%H:%M:%SZ' }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author.name | default: 'Alex Cipher' }}",
+        "url": "https://github.com/superorastudio"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}"
+      }
+    }
+    </script>
+    
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
