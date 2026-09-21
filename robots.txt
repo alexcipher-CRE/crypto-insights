@@ -1,0 +1,9 @@
+Sitemap: https://superorastudio.github.io/crypto-insights/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /feed/
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://superorastudio.github.io/crypto-insights/sitemap.xml

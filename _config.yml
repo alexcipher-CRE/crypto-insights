@@ -28,6 +28,20 @@ author:
   twitter: alexcipher
   github: superorastudio
 
+# SEO
+twitter:
+  username: alexcipher
+  card: summary_large_image
+
+social:
+  name: Alex Cipher
+  links:
+    - https://twitter.com/alexcipher
+    - https://github.com/superorastudio
+
+# Google Analytics (disabled - no tracking)
+google_analytics:
+
 # Google Analytics (empty - no tracking)
 ga: 
 
