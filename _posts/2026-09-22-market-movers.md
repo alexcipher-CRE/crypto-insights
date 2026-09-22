@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-22
 
-*Last updated: 2026-09-22 15:37 UTC*
+*Last updated: 2026-09-22 17:39 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,17 +14,17 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $325.94 | +23.8% | $909,714,377 |
-| Bittensor (TAO) | $315.70 | +10.3% | $694,705,248 |
-| NEAR Protocol (NEAR) | $4.43 | +9.6% | $1,829,379,337 |
-| XRP (XRP) | $1.57 | +5.4% | $6,297,342,501 |
-| Uniswap (UNI) | $9.28 | +5.2% | $1,502,336,838 |
+| Bitcoin Cash (BCH) | $330.28 | +24.9% | $964,967,143 |
+| NEAR Protocol (NEAR) | $4.46 | +11.4% | $1,789,077,552 |
+| Bittensor (TAO) | $314.54 | +10.6% | $677,183,523 |
+| XRP (XRP) | $1.57 | +4.8% | $6,079,668,112 |
+| Hyperliquid (HYPE) | $96.71 | +4.3% | $1,212,844,879 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| BNB (BNB) | $788.51 | -1.7% | $1,376,472,184 |
+| Pepe (PEPE) | $0.000005 | -1.7% | $1,096,514,737 |
 
 ## 📊 Key Takeaways
 

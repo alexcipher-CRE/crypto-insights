@@ -6,64 +6,64 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-22
 
-*Last updated: 2026-09-22 15:37 UTC*
+*Last updated: 2026-09-22 17:39 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
-### 1. 🟢 Pudgy Penguins (PENGU)
+### 1. 🟢 astronaut (ASTRO)
 
-- **Price:** $0.009145
-- **24h Change:** +7.2%
-- **Volume:** $417,468,282
+- **Price:** $0.042736
+- **24h Change:** +81.2%
+- **Volume:** $40,007,811
+
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)
+
+- **[Trade on MEXC](https://www.mexc.com/trade/ASTRO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/astronaut)**
+
+### 2. 🟢 Aurora (AURORA)
+
+- **Price:** $0.089957
+- **24h Change:** +122.5%
+- **Volume:** $42,937,973
+
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:AURORAUSDT)
+
+- **[Trade on MEXC](https://www.mexc.com/trade/AURORA_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/aurora)**
+
+### 3. 🟢 Pudgy Penguins (PENGU)
+
+- **Price:** $0.009439
+- **24h Change:** +9.1%
+- **Volume:** $417,294,622
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/PENGU_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pudgy-penguins)**
-
-### 2. 🟢 Edel (EDEL)
-
-- **Price:** $0.033361
-- **24h Change:** +9.0%
-- **Volume:** $2,594,712
-
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
-
-- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
-
-### 3. 🔴 MESSIER (M87)
-
-- **Price:** $0.000025
-- **24h Change:** -6.2%
-- **Volume:** $243,618
-
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:M87USDT)
-
-- **[Trade on MEXC](https://www.mexc.com/trade/M87_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/messier)**
 
 <!-- Ad Slot: Mid-Content Leaderboard -->
 <div class="ad-slot ad-leaderboard">
   <small>[Advertisement — Your Ad Here]</small>
 </div>
 
-### 4. 🟢 Pearl (PRL)
+### 4. 🟢 NEAR Protocol (NEAR)
 
-- **Price:** $1.15
-- **24h Change:** +28.2%
-- **Volume:** $3,204,851
-
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PRLUSDT)
-
-- **[Trade on MEXC](https://www.mexc.com/trade/PRL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pearl)**
-
-### 5. 🟢 NEAR Protocol (NEAR)
-
-- **Price:** $4.42
-- **24h Change:** +9.7%
-- **Volume:** $1,823,766,366
+- **Price:** $4.45
+- **24h Change:** +10.5%
+- **Volume:** $1,797,186,618
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
+
+### 5. 🟢 Pearl (PRL)
+
+- **Price:** $1.24
+- **24h Change:** +35.8%
+- **Volume:** $3,857,208
+
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PRLUSDT)
+
+- **[Trade on MEXC](https://www.mexc.com/trade/PRL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pearl)**
 
 ## 💡 How to Buy These Coins
 
