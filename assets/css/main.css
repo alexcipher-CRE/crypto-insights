@@ -310,6 +310,31 @@ footer a {
     color: white;
     text-decoration: none;
 }
+/* Crypto donation */
+.crypto-donate {
+    text-align: center;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+}
+.crypto-donate .donate-btn {
+    background: var(--accent);
+    color: #000;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0.5rem 0;
+    transition: all 0.2s;
+}
+.crypto-donate .donate-btn:hover {
+    background: #00ffbd;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 212, 170, 0.3);
+}
 
 @media (max-width: 600px) {
     .container {
