@@ -54,4 +54,16 @@ layout: null
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>{{ '/screener' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ '/alerts' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
