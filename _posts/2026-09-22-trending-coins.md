@@ -6,35 +6,35 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-22
 
-*Last updated: 2026-09-22 11:35 UTC*
+*Last updated: 2026-09-22 13:37 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
-### 1. 🟢 Edel (EDEL)
+### 1. 🔴 MESSIER (M87)
 
-- **Price:** $0.032727
-- **24h Change:** +11.7%
-- **Volume:** $2,329,396
+- **Price:** $0.000024
+- **24h Change:** -9.1%
+- **Volume:** $243,281
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:M87USDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
+- **[Trade on MEXC](https://www.mexc.com/trade/M87_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/messier)**
 
-### 2. 🟢 Pudgy Penguins (PENGU)
+### 2. 🟢 NEAR Protocol (NEAR)
 
-- **Price:** $0.008896
-- **24h Change:** +6.2%
-- **Volume:** $409,361,004
+- **Price:** $4.54
+- **24h Change:** +9.7%
+- **Volume:** $1,881,334,232
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/PENGU_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pudgy-penguins)**
+- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
-### 3. 🟢 Firo (FIRO)
+### 3. 🔴 Firo (FIRO)
 
-- **Price:** $1.21
-- **24h Change:** +5.0%
-- **Volume:** $216,988
+- **Price:** $1.25
+- **24h Change:** -1.5%
+- **Volume:** $205,991
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:FIROUSDT)
 
@@ -45,25 +45,25 @@ The crypto market is moving fast. Here are the **top trending coins** based on s
   <small>[Advertisement — Your Ad Here]</small>
 </div>
 
-### 4. 🔴 Official Trump (TRUMP)
+### 4. 🟢 Edel (EDEL)
 
-- **Price:** $2.15
-- **24h Change:** -1.1%
-- **Volume:** $341,498,470
+- **Price:** $0.032266
+- **24h Change:** +9.0%
+- **Volume:** $2,521,413
+
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
+
+- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
+
+### 5. 🟢 Official Trump (TRUMP)
+
+- **Price:** $2.18
+- **24h Change:** +2.2%
+- **Volume:** $382,403,840
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:TRUMPUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/TRUMP_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/official-trump)**
-
-### 5. 🟢 NEAR Protocol (NEAR)
-
-- **Price:** $4.52
-- **24h Change:** +8.6%
-- **Volume:** $1,777,619,170
-
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
-
-- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
 ## 💡 How to Buy These Coins
 
