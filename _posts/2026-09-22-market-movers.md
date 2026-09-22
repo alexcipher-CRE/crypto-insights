@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-22
 
-*Last updated: 2026-09-22 19:40 UTC*
+*Last updated: 2026-09-22 21:40 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,18 +14,18 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $340.62 | +27.6% | $1,111,844,415 |
-| NEAR Protocol (NEAR) | $4.38 | +5.7% | $1,728,014,838 |
-| XRP (XRP) | $1.59 | +5.4% | $6,602,908,603 |
-| Uniswap (UNI) | $9.21 | +4.6% | $1,509,357,830 |
-| Zcash (ZEC) | $1,524.12 | +3.4% | $1,513,357,760 |
+| Bitcoin Cash (BCH) | $342.05 | +27.1% | $1,184,312,261 |
+| Uniswap (UNI) | $9.42 | +5.7% | $1,589,115,014 |
+| NEAR Protocol (NEAR) | $4.30 | +4.5% | $1,669,898,497 |
+| Zcash (ZEC) | $1,520.76 | +4.4% | $1,391,249,453 |
+| Hyperliquid (HYPE) | $96.72 | +3.4% | $1,223,145,579 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Sui (SUI) | $1.01 | -1.6% | $1,141,970,091 |
-| BNB (BNB) | $788.48 | -1.5% | $1,374,847,868 |
+| BNB (BNB) | $785.05 | -2.6% | $1,322,407,285 |
+| Avalanche (AVAX) | $11.08 | -1.9% | $624,445,807 |
 
 ## 📊 Key Takeaways
 
