@@ -90,6 +90,12 @@
                 </div>
                 <h1>{{ page.title }}</h1>
                 {{ content }}
+                <div class="share-buttons">
+                    <p><strong>📢 Found this helpful? Share it:</strong></p>
+                    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url | append: site.baseurl | append: page.url | url_encode }}" target="_blank" rel="noopener">𝕏 Twitter</a>
+                    <a href="https://www.reddit.com/submit?url={{ site.url | append: site.baseurl | append: page.url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" rel="noopener">📕 Reddit</a>
+                    <a href="https://t.me/share/url?url={{ site.url | append: site.baseurl | append: page.url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener">✈️ Telegram</a>
+                </div>
             </article>
         </div>
     </main>

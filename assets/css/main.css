@@ -287,7 +287,29 @@ footer a {
     cursor: pointer;
     margin-left: 0.5rem;
 }
-.newsletter-form button:hover { opacity: 0.9; }
+/* Share buttons */
+.share-buttons {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    text-align: center;
+}
+.share-buttons a {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+}
+.share-buttons a:hover {
+    background: var(--accent);
+    color: white;
+    text-decoration: none;
+}
 
 @media (max-width: 600px) {
     .container {
