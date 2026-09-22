@@ -6,35 +6,35 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-22
 
-*Last updated: 2026-09-22 17:39 UTC*
+*Last updated: 2026-09-22 19:40 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
-### 1. 🟢 astronaut (ASTRO)
+### 1. 🔴 astronaut (ASTRO)
 
-- **Price:** $0.042736
-- **24h Change:** +81.2%
-- **Volume:** $40,007,811
+- **Price:** $0.021096
+- **24h Change:** -24.4%
+- **Volume:** $20,012,981
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/ASTRO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/astronaut)**
 
-### 2. 🟢 Aurora (AURORA)
+### 2. 🔴 Edel (EDEL)
 
-- **Price:** $0.089957
-- **24h Change:** +122.5%
-- **Volume:** $42,937,973
+- **Price:** $0.031026
+- **24h Change:** -0.4%
+- **Volume:** $2,932,921
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:AURORAUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/AURORA_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/aurora)**
+- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
 
 ### 3. 🟢 Pudgy Penguins (PENGU)
 
-- **Price:** $0.009439
-- **24h Change:** +9.1%
-- **Volume:** $417,294,622
+- **Price:** $0.009783
+- **24h Change:** +10.0%
+- **Volume:** $420,238,479
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
 
@@ -47,9 +47,9 @@ The crypto market is moving fast. Here are the **top trending coins** based on s
 
 ### 4. 🟢 NEAR Protocol (NEAR)
 
-- **Price:** $4.45
-- **24h Change:** +10.5%
-- **Volume:** $1,797,186,618
+- **Price:** $4.37
+- **24h Change:** +5.9%
+- **Volume:** $1,733,290,421
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
@@ -57,9 +57,9 @@ The crypto market is moving fast. Here are the **top trending coins** based on s
 
 ### 5. 🟢 Pearl (PRL)
 
-- **Price:** $1.24
-- **24h Change:** +35.8%
-- **Volume:** $3,857,208
+- **Price:** $1.27
+- **24h Change:** +37.7%
+- **Volume:** $4,219,967
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PRLUSDT)
 
