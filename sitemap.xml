@@ -1,13 +1,16 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://alexcipher-cre.github.io/crypto-insights/</loc>
+    <loc>{{ site.url | append: site.baseurl }}/</loc>
     <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://alexcipher-cre.github.io/crypto-insights/assets/og-image.png</image:loc>
+      <image:loc>{{ '/assets/og-image.png' | absolute_url }}</image:loc>
     </image:image>
   </url>
   {% for post in site.posts %}
@@ -17,8 +20,26 @@
     <changefreq>never</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://alexcipher-cre.github.io/crypto-insights/assets/og-image.png</image:loc>
+      <image:loc>{{ '/assets/og-image.png' | absolute_url }}</image:loc>
     </image:image>
   </url>
   {% endfor %}
+  <url>
+    <loc>{{ '/about' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>{{ '/earn' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>{{ '/newsletter' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
