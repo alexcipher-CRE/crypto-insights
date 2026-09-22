@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-22
 
-*Last updated: 2026-09-22 02:24 UTC*
+*Last updated: 2026-09-22 03:32 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,17 +14,17 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Pepe (PEPE) | $0.000005 | +25.0% | $1,258,571,134 |
-| Bittensor (TAO) | $319.44 | +20.8% | $707,186,579 |
-| Dogecoin (DOGE) | $0.099471 | +12.7% | $2,923,449,816 |
-| Sui (SUI) | $1.04 | +10.6% | $1,934,070,629 |
-| Cardano (ADA) | $0.246140 | +6.8% | $839,048,986 |
+| Pepe (PEPE) | $0.000005 | +29.4% | $1,349,511,356 |
+| Bittensor (TAO) | $315.76 | +17.6% | $712,548,213 |
+| Dogecoin (DOGE) | $0.100498 | +13.2% | $3,097,644,790 |
+| Sui (SUI) | $1.05 | +11.2% | $2,081,166,243 |
+| XRP (XRP) | $1.52 | +6.7% | $6,394,343,967 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Zcash (ZEC) | $1,448.89 | -4.3% | $1,204,331,569 |
+| Zcash (ZEC) | $1,456.19 | -4.2% | $1,194,606,320 |
 
 ## 📊 Key Takeaways
 
