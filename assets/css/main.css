@@ -249,6 +249,15 @@ footer a {
     opacity: 0.5;
 }
 
+/* TradingView chart embeds */
+.tv-chart-container {
+    margin: 1rem 0;
+    text-align: center;
+}
+.tv-chart-container iframe {
+    border-radius: 8px;
+}
+
 /* Newsletter */
 .newsletter-form {
     background: var(--bg-card);
