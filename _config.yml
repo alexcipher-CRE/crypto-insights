@@ -26,7 +26,7 @@ defaults:
 author:
   name: Alex Cipher
   twitter: alexcipher
-  github: superorastudio
+  github: alexcipher-CRE
 
 # SEO
 twitter:
@@ -37,7 +37,7 @@ social:
   name: Alex Cipher
   links:
     - https://twitter.com/alexcipher
-    - https://github.com/superorastudio
+    - https://github.com/alexcipher-CRE
 
 # Google Analytics (disabled - no tracking)
 google_analytics:
