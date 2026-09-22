@@ -26,7 +26,7 @@ Today's biggest movers in the crypto market.
 - Volume + price change = confirmation of trend strength
 - Cross-reference with on-chain data for conviction
 
-> 🔗 **Trade these on:** [Binance](https://www.binance.com/en/register?ref=YOUR_REF_ID) | [Bybit](https://www.bybit.com/invite?ref=YOUR_REF_ID) | [Kraken](https://www.kraken.com/signup?ref=YOUR_REF_ID)
+> 🔗 **Trade these on:** [MEXC](https://mexc.com/Register?ref=YOUR_REF_ID) | [KuCoin](https://www.kucoin.com/affiliate/YOUR_REF_ID) | [Phemex](https://phemex.com/sign-up?ref=YOUR_REF_ID)
 
 > ⚠️ *Disclaimer: Not financial advice. Always DYOR.*
 
