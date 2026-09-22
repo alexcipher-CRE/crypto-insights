@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://superorastudio.github.io/crypto-insights/</loc>
+    <loc>https://alexcipher-cre.github.io/crypto-insights/</loc>
     <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://superorastudio.github.io/crypto-insights/assets/og-image.png</image:loc>
+      <image:loc>https://alexcipher-cre.github.io/crypto-insights/assets/og-image.png</image:loc>
     </image:image>
   </url>
   {% for post in site.posts %}
@@ -17,7 +17,7 @@
     <changefreq>never</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://superorastudio.github.io/crypto-insights/assets/og-image.png</image:loc>
+      <image:loc>https://alexcipher-cre.github.io/crypto-insights/assets/og-image.png</image:loc>
     </image:image>
   </url>
   {% endfor %}
