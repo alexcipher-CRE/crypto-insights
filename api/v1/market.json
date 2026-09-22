@@ -1,0 +1,364 @@
+{
+  "status": "active",
+  "timestamp": "2026-09-22T14:59:27.444622+00:00",
+  "version": "1.0",
+  "data": [
+    {
+      "symbol": "M87",
+      "name": "MESSIER",
+      "price_usd": 2.415762532654334e-05,
+      "price_change_pct_24h": -8.331137253560284,
+      "volume_24h_usd": 231202.0
+    },
+    {
+      "symbol": "EDEL",
+      "name": "Edel",
+      "price_usd": 0.03288807444654233,
+      "price_change_pct_24h": 7.8358578192751205,
+      "volume_24h_usd": 2537111.0
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "price_usd": 4.339883834319967,
+      "price_change_pct_24h": 4.96138464059962,
+      "volume_24h_usd": 1832483416.0
+    },
+    {
+      "symbol": "FIRO",
+      "name": "Firo",
+      "price_usd": 1.2095101290147758,
+      "price_change_pct_24h": -2.0495821625369905,
+      "volume_24h_usd": 200550.0
+    },
+    {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "price_usd": 0.008867854585180772,
+      "price_change_pct_24h": 5.446699412586133,
+      "volume_24h_usd": 426479838.0
+    },
+    {
+      "symbol": "PRL",
+      "name": "Pearl",
+      "price_usd": 1.1177612452719126,
+      "price_change_pct_24h": 25.03491446328794,
+      "volume_24h_usd": 3006092.0
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "price_usd": 8.90085003227178,
+      "price_change_pct_24h": -0.28946278460393027,
+      "volume_24h_usd": 1390557639.0
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "price_usd": 0.9946956116546007,
+      "price_change_pct_24h": -4.442414954084784,
+      "volume_24h_usd": 1339565925.0
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price_usd": 85960.29943142428,
+      "price_change_pct_24h": 0.020408480933260163,
+      "volume_24h_usd": 48315987451.0
+    },
+    {
+      "symbol": "PONS",
+      "name": "Pons",
+      "price_usd": 0.6058549113314352,
+      "price_change_pct_24h": -4.526221482725041,
+      "volume_24h_usd": 73282762.0
+    },
+    {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "price_usd": 0.06589578836779383,
+      "price_change_pct_24h": 0.9471532122255639,
+      "volume_24h_usd": 68360573.0
+    },
+    {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "price_usd": 315.13302173122287,
+      "price_change_pct_24h": 10.642945645392619,
+      "volume_24h_usd": 701175596.0
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "price_usd": 1.5506964806980421,
+      "price_change_pct_24h": 3.19923235029662,
+      "volume_24h_usd": 6681460290.0
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "price_usd": 1516.238252969505,
+      "price_change_pct_24h": -0.525402184775282,
+      "volume_24h_usd": 1456968054.0
+    },
+    {
+      "symbol": "STONK",
+      "name": "STONK",
+      "price_usd": 0.3533957083218072,
+      "price_change_pct_24h": -6.709800093054316,
+      "volume_24h_usd": 60431632.0
+    },
+    {
+      "symbol": "M87",
+      "name": "MESSIER",
+      "price_usd": 2.4296544852702214e-05,
+      "price_change_pct_24h": -9.064586038250033,
+      "volume_24h_usd": 243281.0
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "price_usd": 4.538576641304051,
+      "price_change_pct_24h": 9.670085378285338,
+      "volume_24h_usd": 1881334232.0
+    },
+    {
+      "symbol": "FIRO",
+      "name": "Firo",
+      "price_usd": 1.249234781401996,
+      "price_change_pct_24h": -1.4921918710919164,
+      "volume_24h_usd": 205991.0
+    },
+    {
+      "symbol": "EDEL",
+      "name": "Edel",
+      "price_usd": 0.032265808930589786,
+      "price_change_pct_24h": 9.022872556125023,
+      "volume_24h_usd": 2521413.0
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "price_usd": 2.179871060768316,
+      "price_change_pct_24h": 2.1590317717482206,
+      "volume_24h_usd": 382403840.0
+    },
+    {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "price_usd": 0.009101003738076976,
+      "price_change_pct_24h": 9.82585777708013,
+      "volume_24h_usd": 434609842.0
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "price_usd": 9.028018395845958,
+      "price_change_pct_24h": 1.1612975382419501,
+      "volume_24h_usd": 1330971902.0
+    },
+    {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "price_usd": 317.73608123138143,
+      "price_change_pct_24h": 11.58946544137037,
+      "volume_24h_usd": 682352012.0
+    },
+    {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "price_usd": 4.909610002669163e-06,
+      "price_change_pct_24h": 14.71674962915902,
+      "volume_24h_usd": 1490624416.0
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "price_usd": 309.80120062268617,
+      "price_change_pct_24h": 15.639641253939116,
+      "volume_24h_usd": 679463561.0
+    },
+    {
+      "symbol": "RHEA",
+      "name": "RHEA",
+      "price_usd": 0.06229960864760556,
+      "price_change_pct_24h": 66.55054664540376,
+      "volume_24h_usd": 8451372.0
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "price_usd": 1.0149628176960042,
+      "price_change_pct_24h": -2.6908328508308736,
+      "volume_24h_usd": 1412639147.0
+    },
+    {
+      "symbol": "STONK",
+      "name": "STONK",
+      "price_usd": 0.34860955061351373,
+      "price_change_pct_24h": -2.606539737124483,
+      "volume_24h_usd": 47910054.0
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "price_usd": 1521.337685789114,
+      "price_change_pct_24h": -1.3964286369089738,
+      "volume_24h_usd": 1429003793.0
+    },
+    {
+      "symbol": "AURORA",
+      "name": "Aurora",
+      "price_usd": 0.09114288784270329,
+      "price_change_pct_24h": 289.62291231358506,
+      "volume_24h_usd": 38354467.0
+    },
+    {
+      "symbol": "EDEL",
+      "name": "Edel",
+      "price_usd": 0.03272666672224585,
+      "price_change_pct_24h": 11.687152104793604,
+      "volume_24h_usd": 2329396.0
+    },
+    {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "price_usd": 0.008896304201905791,
+      "price_change_pct_24h": 6.219943707341498,
+      "volume_24h_usd": 409361004.0
+    },
+    {
+      "symbol": "FIRO",
+      "name": "Firo",
+      "price_usd": 1.2074777832354375,
+      "price_change_pct_24h": 5.013397061051837,
+      "volume_24h_usd": 216988.0
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "price_usd": 2.1475700051107087,
+      "price_change_pct_24h": -1.090826040692853,
+      "volume_24h_usd": 341498470.0
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "price_usd": 4.5246933999101255,
+      "price_change_pct_24h": 8.602272337336874,
+      "volume_24h_usd": 1777619170.0
+    },
+    {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "price_usd": 4.939661982283171e-06,
+      "price_change_pct_24h": 16.913711311438114,
+      "volume_24h_usd": 1525430397.0
+    },
+    {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "price_usd": 315.5743487492676,
+      "price_change_pct_24h": 9.559206280394175,
+      "volume_24h_usd": 668650403.0
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price_usd": 85963.71201874722,
+      "price_change_pct_24h": 1.5638121373561438,
+      "volume_24h_usd": 53112697201.0
+    },
+    {
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "price_usd": 95.20511983301894,
+      "price_change_pct_24h": -0.5090985050960153,
+      "volume_24h_usd": 1311125354.0
+    },
+    {
+      "symbol": "FET",
+      "name": "Artificial Superintelligence Alliance",
+      "price_usd": 0.20600928153189663,
+      "price_change_pct_24h": 5.687528925322061,
+      "volume_24h_usd": 186067979.0
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price_usd": 2740.5570220936656,
+      "price_change_pct_24h": 0.7223231634500878,
+      "volume_24h_usd": 21296672209.0
+    },
+    {
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "price_usd": 0.43025332024904905,
+      "price_change_pct_24h": -5.402851473849,
+      "volume_24h_usd": 339234463.0
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "price_usd": 0.24557059597284592,
+      "price_change_pct_24h": 1.5029465369498098,
+      "volume_24h_usd": 844610181.0
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "price_usd": 10.926080929931048,
+      "price_change_pct_24h": -4.805616239132391,
+      "volume_24h_usd": 802991180.0
+    },
+    {
+      "symbol": "PI",
+      "name": "Pi Network",
+      "price_usd": 0.0900102754083594,
+      "price_change_pct_24h": 0.8371648871278274,
+      "volume_24h_usd": 12214461.0
+    },
+    {
+      "symbol": "FIRO",
+      "name": "Firo",
+      "price_usd": 1.2023661407497623,
+      "price_change_pct_24h": 5.4300526597585215,
+      "volume_24h_usd": 215792.0
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "price_usd": 2.1446473596325952,
+      "price_change_pct_24h": -0.3079073989257159,
+      "volume_24h_usd": 359924591.0
+    },
+    {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "price_usd": 0.009092136525996757,
+      "price_change_pct_24h": 9.381667395070568,
+      "volume_24h_usd": 418087580.0
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price_usd": 85831.04243876786,
+      "price_change_pct_24h": 1.6697642503697683,
+      "volume_24h_usd": 57850733704.0
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "price_usd": 4.533113821398829,
+      "price_change_pct_24h": 4.180630009906486,
+      "volume_24h_usd": 1714199698.0
+    }
+  ],
+  "paywall": "0.000001 ETH equivalent to remove rate limits",
+  "rate_limit": "50 requests/hour free, 1000/hour with payment",
+  "endpoints": {
+    "market": "/api/v1/market",
+    "screener": "/api/v1/screener",
+    "alerts": "/api/v1/alerts"
+  }
+}
