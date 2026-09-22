@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-22
 
-*Last updated: 2026-09-22 21:40 UTC*
+*Last updated: 2026-09-22 23:42 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,18 +14,18 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $342.05 | +27.1% | $1,184,312,261 |
-| Uniswap (UNI) | $9.42 | +5.7% | $1,589,115,014 |
-| NEAR Protocol (NEAR) | $4.30 | +4.5% | $1,669,898,497 |
-| Zcash (ZEC) | $1,520.76 | +4.4% | $1,391,249,453 |
-| Hyperliquid (HYPE) | $96.72 | +3.4% | $1,223,145,579 |
+| Bitcoin Cash (BCH) | $344.10 | +29.2% | $1,237,710,140 |
+| Uniswap (UNI) | $10.12 | +12.5% | $2,057,807,651 |
+| Zcash (ZEC) | $1,637.31 | +11.4% | $1,720,753,637 |
+| Pepe (PEPE) | $0.000005 | +4.6% | $910,338,294 |
+| Cardano (ADA) | $0.255361 | +4.6% | $912,140,502 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| BNB (BNB) | $785.05 | -2.6% | $1,322,407,285 |
-| Avalanche (AVAX) | $11.08 | -1.9% | $624,445,807 |
+| Sui (SUI) | $1.02 | -1.6% | $1,139,698,547 |
+| BNB (BNB) | $788.19 | -1.3% | $1,318,839,682 |
 
 ## 📊 Key Takeaways
 
