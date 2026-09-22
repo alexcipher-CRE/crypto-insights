@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-22
 
-*Last updated: 2026-09-22 01:22 UTC*
+*Last updated: 2026-09-22 01:23 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,18 +14,18 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Pepe (PEPE) | $0.000005 | +22.5% | $1,213,259,190 |
-| Bittensor (TAO) | $307.34 | +14.3% | $666,429,181 |
-| Dogecoin (DOGE) | $0.098281 | +10.2% | $2,863,967,168 |
-| Sui (SUI) | $1.03 | +9.0% | $2,075,125,759 |
-| XRP (XRP) | $1.51 | +5.4% | $6,126,952,703 |
+| Pepe (PEPE) | $0.000005 | +22.3% | $1,166,190,176 |
+| Bittensor (TAO) | $308.20 | +14.2% | $669,274,140 |
+| Dogecoin (DOGE) | $0.098492 | +10.1% | $2,831,645,750 |
+| Sui (SUI) | $1.03 | +9.0% | $1,974,046,445 |
+| XRP (XRP) | $1.51 | +5.1% | $6,113,772,093 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Avalanche (AVAX) | $11.06 | -5.6% | $1,005,460,041 |
-| Zcash (ZEC) | $1,466.79 | -4.7% | $1,226,730,084 |
+| Avalanche (AVAX) | $11.10 | -5.2% | $988,402,550 |
+| Zcash (ZEC) | $1,471.83 | -4.4% | $1,143,300,016 |
 
 ## 📊 Key Takeaways
 
