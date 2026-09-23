@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 12:24 UTC*
+*Last updated: 2026-09-23 13:30 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,18 +14,19 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $340.45 | +26.0% | $1,704,759,035 |
-| Uniswap (UNI) | $9.75 | +11.4% | $2,462,960,028 |
-| Zcash (ZEC) | $1,626.24 | +6.2% | $2,209,953,051 |
-| Litecoin (LTC) | $62.01 | +3.0% | $607,344,199 |
-| NEAR Protocol (NEAR) | $4.75 | +2.7% | $2,304,499,521 |
+| Bitcoin Cash (BCH) | $356.07 | +14.5% | $1,582,806,202 |
+| Zcash (ZEC) | $1,632.83 | +7.3% | $2,071,891,239 |
+| Uniswap (UNI) | $9.55 | +5.1% | $2,154,395,204 |
+| NEAR Protocol (NEAR) | $4.64 | +2.1% | $2,003,961,457 |
+| XRP (XRP) | $1.57 | +1.9% | $7,285,654,038 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Chainlink (LINK) | $12.71 | -1.2% | $585,328,686 |
-| BNB (BNB) | $778.90 | -0.9% | $1,169,672,223 |
+| Avalanche (AVAX) | $10.65 | -3.0% | $633,202,850 |
+| Chainlink (LINK) | $12.70 | -2.1% | $562,826,590 |
+| BNB (BNB) | $779.65 | -1.1% | $1,157,664,561 |
 
 ## 📊 Key Takeaways
 
