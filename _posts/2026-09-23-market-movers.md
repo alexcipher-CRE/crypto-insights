@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 05:45 UTC*
+*Last updated: 2026-09-23 07:46 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,11 +14,17 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $339.29 | +28.2% | $1,364,256,091 |
-| Uniswap (UNI) | $10.57 | +17.6% | $2,449,243,282 |
-| XRP (XRP) | $1.62 | +7.6% | $6,292,893,578 |
-| Zcash (ZEC) | $1,616.26 | +7.1% | $1,833,756,546 |
-| Cardano (ADA) | $0.258681 | +5.9% | $872,860,904 |
+| Bitcoin Cash (BCH) | $351.26 | +32.5% | $1,557,998,450 |
+| Uniswap (UNI) | $10.45 | +17.5% | $2,446,702,848 |
+| Zcash (ZEC) | $1,631.50 | +8.1% | $1,878,707,266 |
+| XRP (XRP) | $1.62 | +6.6% | $6,719,909,224 |
+| Cardano (ADA) | $0.256104 | +4.5% | $865,100,351 |
+
+## 🔴 Top Losers (24h)
+
+| Coin | Price | 24h Change | Volume |
+|------|-------|-------------|--------|
+| Pepe (PEPE) | $0.000005 | -4.7% | $603,094,278 |
 
 ## 📊 Key Takeaways
 
