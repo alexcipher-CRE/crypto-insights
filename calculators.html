@@ -1,0 +1,145 @@
+---
+title: "Free Crypto Calculators — Yield, Staking, Impermanent Loss"
+description: "Free crypto calculators: DeFi yield projections, staking ROI, impermanent loss calculator. No signup, instant results."
+---
+
+# 🧮 Free Crypto Calculators
+
+Instant, client-side calculators for DeFi investors. No signup, no data collection, everything runs in your browser.
+
+## 💰 DeFi Yield Calculator
+
+Project your returns from any yield pool. Compounding included.
+
+<div class="calc-tool">
+  <label>Initial investment (USD): <input type="number" id="yield-principal" value="1000" min="1"></label>
+  <label>APY (%): <input type="number" id="yield-apy" value="12" step="0.1" min="0"></label>
+  <label>Duration (days): <input type="number" id="yield-days" value="365" min="1"></label>
+  <label>Compounding per year: <input type="number" id="yield-freq" value="365" min="1" max="365"></label>
+  <button onclick="calcYield()">Calculate</button>
+  <div id="yield-result" class="calc-result"></div>
+</div>
+
+## 🥩 Staking ROI Calculator
+
+Compare staking rewards across chains with inflation adjustment.
+
+<div class="calc-tool">
+  <label>Stake amount (tokens): <input type="number" id="stake-amount" value="100" min="0.0001"></label>
+  <label>Token price (USD): <input type="number" id="stake-price" value="1" step="0.000001" min="0"></label>
+  <label>Staking APR (%): <input type="number" id="stake-apr" value="8" step="0.1" min="0"></label>
+  <label>Duration (days): <input type="number" id="stake-days" value="365" min="1"></label>
+  <button onclick="calcStake()">Calculate</button>
+  <div id="stake-result" class="calc-result"></div>
+</div>
+
+## ⚖️ Impermanent Loss Calculator
+
+See what providing liquidity really costs you vs. holding.
+
+<div class="calc-tool">
+  <label>Token A initial price (USD): <input type="number" id="il-priceA" value="100" step="0.01" min="0.000001"></label>
+  <label>Token A final price (USD): <input type="number" id="il-priceA2" value="150" step="0.01" min="0.000001"></label>
+  <label>Pool value (USD): <input type="number" id="il-value" value="1000" min="1"></label>
+  <button onclick="calcIL()">Calculate</button>
+  <div id="il-result" class="calc-result"></div>
+</div>
+
+<script>
+function fmt(n) { return '$' + n.toLocaleString('en-US', {maximumFractionDigits: 2}); }
+
+function calcYield() {
+  const p = parseFloat(document.getElementById('yield-principal').value);
+  const r = parseFloat(document.getElementById('yield-apy').value) / 100;
+  const t = parseFloat(document.getElementById('yield-days').value) / 365;
+  const n = parseFloat(document.getElementById('yield-freq').value);
+  const final = p * Math.pow(1 + r/n, n*t);
+  const profit = final - p;
+  document.getElementById('yield-result').innerHTML =
+    '<p><strong>Final value: ' + fmt(final) + '</strong></p>' +
+    '<p>Profit: <span style="color:#00d4aa">+' + fmt(profit) + '</span> (' + (profit/p*100).toFixed(2) + '%)</p>' +
+    '<p><small>Compounded ' + n + 'x per year over ' + Math.round(t*365) + ' days.</small></p>';
+}
+
+function calcStake() {
+  const amt = parseFloat(document.getElementById('stake-amount').value);
+  const price = parseFloat(document.getElementById('stake-price').value);
+  const apr = parseFloat(document.getElementById('stake-apr').value) / 100;
+  const days = parseFloat(document.getElementById('stake-days').value);
+  const rewards = amt * apr * (days/365);
+  const usd = rewards * price;
+  document.getElementById('stake-result').innerHTML =
+    '<p><strong>Rewards: ' + rewards.toFixed(4) + ' tokens (' + fmt(usd) + ')</strong></p>' +
+    '<p>Initial value: ' + fmt(amt*price) + ' → Final: ' + fmt((amt+rewards)*price) + '</p>' +
+    '<p><small>Simple APR, no compounding. Real returns vary with token price movement.</small></p>';
+}
+
+function calcIL() {
+  const p1 = parseFloat(document.getElementById('il-priceA').value);
+  const p2 = parseFloat(document.getElementById('il-priceA2').value);
+  const v = parseFloat(document.getElementById('il-value').value);
+  const ratio = p2/p1;
+  // IL formula: 2*sqrt(r)/(1+r) - 1
+  const ilPct = (2*Math.sqrt(ratio)/(1+ratio) - 1) * 100;
+  const ilUsd = v * ilPct/100;
+  const holdValue = v * ratio;
+  const poolValue = v * (2*Math.sqrt(ratio)/(1+ratio)) * ratio;
+  document.getElementById('il-result').innerHTML =
+    '<p><strong>Impermanent loss: ' + ilPct.toFixed(2) + '% (' + fmt(Math.abs(ilUsd)) + ')</strong></p>' +
+    '<p>Price ratio change: ' + ((ratio-1)*100).toFixed(1) + '%</p>' +
+    '<p>Holding: ' + fmt(holdValue) + ' | LP position (approx): ' + fmt(holdValue + ilUsd) + '</p>' +
+    '<p><small>You need fees/rewards exceeding this loss to profit vs. holding.</small></p>';
+}
+</script>
+
+<style>
+.calc-tool {
+  background: var(--bg-secondary, #121826);
+  border: 1px solid var(--border, #2a3441);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+.calc-tool label {
+  display: block;
+  margin: 0.75rem 0;
+  font-size: 0.95rem;
+}
+.calc-tool input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  background: var(--bg-primary, #0a0e17);
+  border: 1px solid var(--border, #2a3441);
+  border-radius: 6px;
+  color: var(--text-primary, #e8eaed);
+  font-size: 1rem;
+}
+.calc-tool button {
+  background: var(--accent, #00d4aa);
+  color: #000;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+.calc-result {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: var(--bg-card, #1a2332);
+  border-radius: 8px;
+  font-size: 1rem;
+}
+</style>
+
+---
+
+## 📚 Related Guides
+
+- [Best DeFi Yield Opportunities This Week](/crypto-insights/)
+- [MEXC vs KuCoin vs Phemex — Exchange Comparison](/crypto-insights/archive)
+- [Free Crypto Price Alerts via Telegram](/crypto-insights/alerts)
+
+> ⚠️ *Calculators are for education only. Not financial advice. DeFi involves smart contract risk — DYOR.*
