@@ -6,15 +6,15 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-23
 
-*Last updated: 2026-09-23 17:32 UTC*
+*Last updated: 2026-09-23 19:33 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
 ### 1. 🟢 astronaut (ASTRO)
 
-- **Price:** $0.046954
-- **24h Change:** +6.6%
-- **Volume:** $48,946,909
+- **Price:** $0.031220
+- **24h Change:** +50.8%
+- **Volume:** $32,525,135
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)
 
@@ -22,48 +22,48 @@ The crypto market is moving fast. Here are the **top trending coins** based on s
 
 ### 2. 🔴 Edel (EDEL)
 
-- **Price:** $0.028155
-- **24h Change:** -9.9%
-- **Volume:** $1,933,497
+- **Price:** $0.027794
+- **24h Change:** -10.4%
+- **Volume:** $2,015,241
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
 
-### 3. 🟢 Pudgy Penguins (PENGU)
+### 3. 🟢 Raydium (RAY)
 
-- **Price:** $0.009643
-- **24h Change:** +2.5%
-- **Volume:** $539,678,203
+- **Price:** $2.10
+- **24h Change:** +17.6%
+- **Volume:** $149,984,678
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:RAYUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/PENGU_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pudgy-penguins)**
+- **[Trade on MEXC](https://www.mexc.com/trade/RAY_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/raydium)**
 
 <!-- Ad Slot: Mid-Content Leaderboard -->
 <div class="ad-slot ad-leaderboard">
   <small>[Advertisement — Your Ad Here]</small>
 </div>
 
-### 4. 🟢 Raydium (RAY)
+### 4. 🔴 Bitcoin (BTC)
 
-- **Price:** $2.07
-- **24h Change:** +16.0%
-- **Volume:** $131,700,582
+- **Price:** $84,428.98
+- **24h Change:** -2.4%
+- **Volume:** $45,277,322,896
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:RAYUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:BTCUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/RAY_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/raydium)**
+- **[Trade on MEXC](https://www.mexc.com/trade/BTC_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/bitcoin)**
 
-### 5. 🟢 Lighter (LIT)
+### 5. 🟢 NEAR Protocol (NEAR)
 
-- **Price:** $5.35
-- **24h Change:** +10.5%
-- **Volume:** $141,958,461
+- **Price:** $4.39
+- **24h Change:** +0.2%
+- **Volume:** $2,346,251,059
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:LITUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/LIT_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/lighter)**
+- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
 ## 💡 How to Buy These Coins
 

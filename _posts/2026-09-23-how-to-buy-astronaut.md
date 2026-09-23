@@ -7,9 +7,9 @@ description: "Step-by-step guide to buying astronaut (ASTRO) from Singapore. Com
 
 # 📖 How to Buy astronaut (ASTRO) — Complete Beginner's Guide
 
-*Updated: September 23, 2026 | Price: $0.046954*
+*Updated: September 23, 2026 | Price: $0.031220*
 
-🪙 **astronaut (ASTRO)** is currently trading at **$0.046954**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
+🪙 **astronaut (ASTRO)** is currently trading at **$0.031220**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
 
 ---
 
@@ -17,9 +17,9 @@ description: "Step-by-step guide to buying astronaut (ASTRO) from Singapore. Com
 
 | Metric | Value |
 |--------|-------|
-| **Current price** | $0.046954 |
-| **24h change** | +6.6% |
-| **24h volume** | $48,946,909 |
+| **Current price** | $0.031220 |
+| **24h change** | +50.8% |
+| **24h volume** | $32,525,135 |
 | **Where to buy** | [MEXC](https://mexc.com/Register?ref=YOUR_REF_ID) · [KuCoin](https://www.kucoin.com/affiliate/YOUR_REF_ID) · [Phemex](https://phemex.com/sign-up?ref=YOUR_REF_ID) |
 
 ---
@@ -91,11 +91,11 @@ Choose your deposit method:
 
 ## Analysis
 
-As of September 23, 2026, **astronaut** trades at **$0.046954**.
+As of September 23, 2026, **astronaut** trades at **$0.031220**.
 
 **Market context:**
-- 24h change: +6.6%
-- 24h volume: $48,946,909
+- 24h change: +50.8%
+- 24h volume: $32,525,135
 
 **Tracking links:**
 - [TradingView chart](https://tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)

@@ -6,23 +6,17 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 17:32 UTC*
+*Last updated: 2026-09-23 19:33 UTC*
 
 Today's biggest movers in the crypto market.
-
-## 🟢 Top Gainers (24h)
-
-| Coin | Price | 24h Change | Volume |
-|------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $350.72 | +6.3% | $1,460,238,278 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Dogecoin (DOGE) | $0.092379 | -7.4% | $1,984,478,847 |
-| Avalanche (AVAX) | $10.32 | -6.4% | $727,176,361 |
-| Chainlink (LINK) | $12.29 | -5.7% | $657,104,490 |
+| Dogecoin (DOGE) | $0.092612 | -7.6% | $2,000,382,592 |
+| Avalanche (AVAX) | $10.32 | -6.3% | $735,369,961 |
+| XRP (XRP) | $1.50 | -5.8% | $6,686,404,521 |
 
 ## 📊 Key Takeaways
 
