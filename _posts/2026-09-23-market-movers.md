@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 11:29 UTC*
+*Last updated: 2026-09-23 12:24 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,18 +14,18 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $351.29 | +30.6% | $1,829,127,600 |
-| Uniswap (UNI) | $9.71 | +11.4% | $2,405,879,589 |
-| Zcash (ZEC) | $1,634.74 | +8.4% | $2,257,148,300 |
-| Litecoin (LTC) | $62.24 | +3.3% | $591,032,008 |
-| XRP (XRP) | $1.58 | +3.0% | $7,095,812,193 |
+| Bitcoin Cash (BCH) | $340.45 | +26.0% | $1,704,759,035 |
+| Uniswap (UNI) | $9.75 | +11.4% | $2,462,960,028 |
+| Zcash (ZEC) | $1,626.24 | +6.2% | $2,209,953,051 |
+| Litecoin (LTC) | $62.01 | +3.0% | $607,344,199 |
+| NEAR Protocol (NEAR) | $4.75 | +2.7% | $2,304,499,521 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Chainlink (LINK) | $12.73 | -1.5% | $576,186,120 |
-| Sui (SUI) | $1.00 | -1.0% | $949,462,519 |
+| Chainlink (LINK) | $12.71 | -1.2% | $585,328,686 |
+| BNB (BNB) | $778.90 | -0.9% | $1,169,672,223 |
 
 ## 📊 Key Takeaways
 
