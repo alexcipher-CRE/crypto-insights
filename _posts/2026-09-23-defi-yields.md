@@ -6,7 +6,7 @@ tags: [defi, yield, staking]
 
 # 🏦 Best DeFi Yield Opportunities — 2026-09-23
 
-*Last updated: 2026-09-23 15:31 UTC*
+*Last updated: 2026-09-23 17:32 UTC*
 
 Looking for passive income in crypto? Here are the **best yield opportunities** across DeFi, filtered by sustainability and TVL.
 
@@ -16,28 +16,28 @@ Looking for passive income in crypto? Here are the **best yield opportunities** 
 
 | Protocol | Chain | Asset | APY | TVL | Risk |
 |----------|-------|-------|-----|-----|------|
-| [usd-ai](https://defillama.com/protocol/usd-ai) | Arbitrum | SUSDAI | 7.05% | $497,996,589 | 🟢 Low |
-| [morpho-blue](https://defillama.com/protocol/morpho-blue) | Robinhood Chain | STEAKUSDG | 7.04% | $492,865,602 | 🟢 Low |
-| [usual-usd0](https://defillama.com/protocol/usual-usd0) | Ethereum | BUSD0 | 5.76% | $503,100,184 | 🟢 Low |
-| [maple](https://defillama.com/protocol/maple) | Ethereum | USDC | 5.16% | $2,914,860,517 | 🟢 Low |
+| [morpho-blue](https://defillama.com/protocol/morpho-blue) | Robinhood Chain | STEAKUSDG | 7.06% | $493,100,306 | 🟢 Low |
+| [usd-ai](https://defillama.com/protocol/usd-ai) | Arbitrum | SUSDAI | 7.02% | $503,971,304 | 🟢 Low |
+| [usual-usd0](https://defillama.com/protocol/usual-usd0) | Ethereum | BUSD0 | 5.78% | $503,290,334 | 🟢 Low |
+| [maple](https://defillama.com/protocol/maple) | Ethereum | USDC | 5.16% | $2,902,400,990 | 🟢 Low |
 | [jupiter-lend](https://defillama.com/protocol/jupiter-lend) | Solana | USDC | 4.91% | $469,774,059 | 🟢 Low |
 
 ## 🚀 Higher Yield Opportunities (Moderate Risk)
 
 | Protocol | Chain | Asset | APY | TVL | Risk |
 |----------|-------|-------|-----|-----|------|
-| [sky-lending](https://defillama.com/protocol/sky-lending) | Ethereum | SKY | 6.56% | $657,860,154 | 🟢 Low |
-| [jupiter-staked-sol](https://defillama.com/protocol/jupiter-staked-sol) | Solana | JUPSOL | 5.52% | $591,510,858 | 🟢 Low |
+| [sky-lending](https://defillama.com/protocol/sky-lending) | Ethereum | SKY | 6.56% | $648,057,593 | 🟢 Low |
+| [jupiter-staked-sol](https://defillama.com/protocol/jupiter-staked-sol) | Solana | JUPSOL | 5.52% | $591,339,766 | 🟢 Low |
 
 ## 🔗 Top Protocols to Explore
 
 | Protocol | Category | TVL | Chains |
 |----------|----------|-----|--------|
-| [Binance CEX](https://defillama.com/protocol/binance-cex) | CEX | $179,211,119,819 | Ethereum,  Bitcoin,  Binance |
-| [OKX](https://defillama.com/protocol/okx) | CEX | $32,205,200,964 | Ethereum,  Bitcoin,  X Layer |
-| [Lido](https://lido.fi) | Liquid Staking | $26,574,561,104 | Ethereum,  Solana,  Terra |
-| [Bitfinex](https://defillama.com/protocol/bitfinex) | CEX | $20,427,379,146 | Bitcoin,  Ethereum,  Tron |
-| [Aave V3](https://defillama.com/protocol/aave-v3) | Lending | $18,499,081,404 | Ethereum,  Base,  Arbitrum |
+| [Binance CEX](https://defillama.com/protocol/binance-cex) | CEX | $176,425,107,019 | Ethereum,  Bitcoin,  Binance |
+| [OKX](https://defillama.com/protocol/okx) | CEX | $31,775,039,037 | Ethereum,  Bitcoin,  X Layer |
+| [Lido](https://lido.fi) | Liquid Staking | $26,087,786,699 | Ethereum,  Solana,  Terra |
+| [Bitfinex](https://defillama.com/protocol/bitfinex) | CEX | $20,201,276,714 | Bitcoin,  Ethereum,  Tron |
+| [Aave V3](https://defillama.com/protocol/aave-v3) | Lending | $18,202,524,846 | Ethereum,  Base,  Arbitrum |
 
 ## 📝 How to Earn Yield in DeFi
 
