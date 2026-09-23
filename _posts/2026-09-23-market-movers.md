@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 01:42 UTC*
+*Last updated: 2026-09-23 03:43 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,19 +14,17 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $341.19 | +28.8% | $1,363,819,869 |
-| Uniswap (UNI) | $10.41 | +14.4% | $2,248,304,466 |
-| Zcash (ZEC) | $1,593.91 | +8.4% | $1,798,326,026 |
-| XRP (XRP) | $1.58 | +4.7% | $6,343,180,250 |
-| Hyperliquid (HYPE) | $97.05 | +3.5% | $1,260,327,869 |
+| Bitcoin Cash (BCH) | $340.29 | +28.2% | $1,315,996,783 |
+| Uniswap (UNI) | $10.72 | +18.0% | $2,391,056,857 |
+| Zcash (ZEC) | $1,616.35 | +10.7% | $1,756,719,147 |
+| XRP (XRP) | $1.62 | +6.9% | $6,188,432,634 |
+| Hyperliquid (HYPE) | $97.09 | +4.7% | $1,222,623,902 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Pepe (PEPE) | $0.000005 | -2.6% | $836,277,719 |
-| Sui (SUI) | $1.02 | -1.3% | $1,042,434,241 |
-| TRON (TRX) | $0.343402 | -1.2% | $573,818,475 |
+| Pepe (PEPE) | $0.000005 | -3.8% | $755,450,709 |
 
 ## 📊 Key Takeaways
 
