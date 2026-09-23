@@ -7,9 +7,9 @@ description: "Step-by-step guide to buying NEAR Protocol (NEAR) from Singapore. 
 
 # 📖 How to Buy NEAR Protocol (NEAR) — Complete Beginner's Guide
 
-*Updated: September 23, 2026 | Price: $4.65*
+*Updated: September 23, 2026 | Price: $4.69*
 
-🪙 **NEAR Protocol (NEAR)** is currently trading at **$4.65**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
+🪙 **NEAR Protocol (NEAR)** is currently trading at **$4.69**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
 
 ---
 
@@ -17,9 +17,9 @@ description: "Step-by-step guide to buying NEAR Protocol (NEAR) from Singapore. 
 
 | Metric | Value |
 |--------|-------|
-| **Current price** | $4.65 |
-| **24h change** | +2.7% |
-| **24h volume** | $2,202,799,777 |
+| **Current price** | $4.69 |
+| **24h change** | +5.9% |
+| **24h volume** | $2,438,546,142 |
 | **Where to buy** | [MEXC](https://mexc.com/Register?ref=YOUR_REF_ID) · [KuCoin](https://www.kucoin.com/affiliate/YOUR_REF_ID) · [Phemex](https://phemex.com/sign-up?ref=YOUR_REF_ID) |
 
 ---
@@ -91,11 +91,11 @@ Choose your deposit method:
 
 ## Analysis
 
-As of September 23, 2026, **NEAR Protocol** trades at **$4.65**.
+As of September 23, 2026, **NEAR Protocol** trades at **$4.69**.
 
 **Market context:**
-- 24h change: +2.7%
-- 24h volume: $2,202,799,777
+- 24h change: +5.9%
+- 24h volume: $2,438,546,142
 
 **Tracking links:**
 - [TradingView chart](https://tradingview.com/chart/?symbol=BINANCE:NEARUSDT)

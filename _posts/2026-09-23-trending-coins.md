@@ -6,60 +6,60 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-23
 
-*Last updated: 2026-09-23 13:30 UTC*
+*Last updated: 2026-09-23 15:31 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
 ### 1. 🟢 NEAR Protocol (NEAR)
 
-- **Price:** $4.65
-- **24h Change:** +2.7%
-- **Volume:** $2,202,799,777
+- **Price:** $4.69
+- **24h Change:** +5.9%
+- **Volume:** $2,438,546,142
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
-### 2. 🔴 Edel (EDEL)
+### 2. 🟢 Lighter (LIT)
 
-- **Price:** $0.029752
-- **24h Change:** -10.4%
-- **Volume:** $1,994,405
+- **Price:** $5.36
+- **24h Change:** +14.0%
+- **Volume:** $134,836,997
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:LITUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
+- **[Trade on MEXC](https://www.mexc.com/trade/LIT_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/lighter)**
 
-### 3. 🟢 Zcash (ZEC)
+### 3. 🔴 Bitcoin (BTC)
 
-- **Price:** $1,631.46
-- **24h Change:** +7.6%
-- **Volume:** $2,072,864,902
+- **Price:** $84,665.23
+- **24h Change:** -1.8%
+- **Volume:** $44,288,035,795
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ZECUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:BTCUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/ZEC_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/zcash)**
+- **[Trade on MEXC](https://www.mexc.com/trade/BTC_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/bitcoin)**
 
 <!-- Ad Slot: Mid-Content Leaderboard -->
 <div class="ad-slot ad-leaderboard">
   <small>[Advertisement — Your Ad Here]</small>
 </div>
 
-### 4. 🟢 Uniswap (UNI)
+### 4. 🟢 astronaut (ASTRO)
 
-- **Price:** $9.57
-- **24h Change:** +3.0%
-- **Volume:** $2,189,960,036
+- **Price:** $0.055763
+- **24h Change:** +118.1%
+- **Volume:** $58,941,962
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:UNIUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/UNI_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/uniswap)**
+- **[Trade on MEXC](https://www.mexc.com/trade/ASTRO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/astronaut)**
 
 ### 5. 🟢 Pudgy Penguins (PENGU)
 
-- **Price:** $0.010152
-- **24h Change:** +10.2%
-- **Volume:** $535,464,650
+- **Price:** $0.009922
+- **24h Change:** +9.5%
+- **Volume:** $547,823,754
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
 

@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 13:30 UTC*
+*Last updated: 2026-09-23 15:31 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,19 +14,17 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Bitcoin Cash (BCH) | $356.07 | +14.5% | $1,582,806,202 |
-| Zcash (ZEC) | $1,632.83 | +7.3% | $2,071,891,239 |
-| Uniswap (UNI) | $9.55 | +5.1% | $2,154,395,204 |
-| NEAR Protocol (NEAR) | $4.64 | +2.1% | $2,003,961,457 |
-| XRP (XRP) | $1.57 | +1.9% | $7,285,654,038 |
+| Bitcoin Cash (BCH) | $343.61 | +5.9% | $1,469,265,820 |
+| NEAR Protocol (NEAR) | $4.64 | +4.0% | $2,416,446,681 |
+| Zcash (ZEC) | $1,587.98 | +3.3% | $2,250,061,543 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Avalanche (AVAX) | $10.65 | -3.0% | $633,202,850 |
-| Chainlink (LINK) | $12.70 | -2.1% | $562,826,590 |
-| BNB (BNB) | $779.65 | -1.1% | $1,157,664,561 |
+| Avalanche (AVAX) | $10.45 | -6.3% | $699,031,158 |
+| Dogecoin (DOGE) | $0.094312 | -5.9% | $1,926,988,300 |
+| Chainlink (LINK) | $12.34 | -5.5% | $634,440,402 |
 
 ## 📊 Key Takeaways
 
