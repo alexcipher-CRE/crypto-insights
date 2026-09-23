@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-23
 
-*Last updated: 2026-09-23 21:34 UTC*
+*Last updated: 2026-09-23 23:35 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,9 +14,9 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Dogecoin (DOGE) | $0.092359 | -7.8% | $1,894,844,888 |
-| Avalanche (AVAX) | $10.35 | -6.4% | $710,055,218 |
-| Cardano (ADA) | $0.238071 | -5.6% | $792,939,463 |
+| Zcash (ZEC) | $1,495.98 | -8.7% | $1,931,898,843 |
+| Avalanche (AVAX) | $10.31 | -8.2% | $681,539,595 |
+| Dogecoin (DOGE) | $0.092440 | -7.9% | $1,862,795,303 |
 
 ## 📊 Key Takeaways
 

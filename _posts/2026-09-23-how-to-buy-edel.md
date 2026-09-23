@@ -7,9 +7,9 @@ description: "Step-by-step guide to buying Edel (EDEL) from Singapore. Compare e
 
 # 📖 How to Buy Edel (EDEL) — Complete Beginner's Guide
 
-*Updated: September 23, 2026 | Price: $0.027745*
+*Updated: September 23, 2026 | Price: $0.027796*
 
-🪙 **Edel (EDEL)** is currently trading at **$0.027745**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
+🪙 **Edel (EDEL)** is currently trading at **$0.027796**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
 
 ---
 
@@ -17,9 +17,9 @@ description: "Step-by-step guide to buying Edel (EDEL) from Singapore. Compare e
 
 | Metric | Value |
 |--------|-------|
-| **Current price** | $0.027745 |
-| **24h change** | -6.7% |
-| **24h volume** | $2,103,461 |
+| **Current price** | $0.027796 |
+| **24h change** | -7.4% |
+| **24h volume** | $2,043,212 |
 | **Where to buy** | [MEXC](https://mexc.com/Register?ref=YOUR_REF_ID) · [KuCoin](https://www.kucoin.com/affiliate/YOUR_REF_ID) · [Phemex](https://phemex.com/sign-up?ref=YOUR_REF_ID) |
 
 ---
@@ -91,11 +91,11 @@ Choose your deposit method:
 
 ## Analysis
 
-As of September 23, 2026, **Edel** trades at **$0.027745**.
+As of September 23, 2026, **Edel** trades at **$0.027796**.
 
 **Market context:**
-- 24h change: -6.7%
-- 24h volume: $2,103,461
+- 24h change: -7.4%
+- 24h volume: $2,043,212
 
 **Tracking links:**
 - [TradingView chart](https://tradingview.com/chart/?symbol=BINANCE:EDELUSDT)

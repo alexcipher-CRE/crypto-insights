@@ -6,39 +6,39 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-23
 
-*Last updated: 2026-09-23 21:34 UTC*
+*Last updated: 2026-09-23 23:35 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
 ### 1. 🔴 Edel (EDEL)
 
-- **Price:** $0.027745
-- **24h Change:** -6.7%
-- **Volume:** $2,103,461
+- **Price:** $0.027796
+- **24h Change:** -7.4%
+- **Volume:** $2,043,212
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
 
-### 2. 🔴 astronaut (ASTRO)
+### 2. 🟢 Nillion (NIL)
 
-- **Price:** $0.017844
-- **24h Change:** -45.6%
-- **Volume:** $19,111,107
+- **Price:** $0.129292
+- **24h Change:** +60.1%
+- **Volume:** $154,579,181
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ASTROUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NILUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/ASTRO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/astronaut)**
+- **[Trade on MEXC](https://www.mexc.com/trade/NIL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/nillion)**
 
-### 3. 🔴 Pudgy Penguins (PENGU)
+### 3. 🟢 Derive (DRV)
 
-- **Price:** $0.009778
-- **24h Change:** -4.4%
-- **Volume:** $462,550,218
+- **Price:** $0.473649
+- **24h Change:** +8.9%
+- **Volume:** $85,156,648
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:PENGUUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:DRVUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/PENGU_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/pudgy-penguins)**
+- **[Trade on MEXC](https://www.mexc.com/trade/DRV_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/derive)**
 
 <!-- Ad Slot: Mid-Content Leaderboard -->
 <div class="ad-slot ad-leaderboard">
@@ -47,23 +47,23 @@ The crypto market is moving fast. Here are the **top trending coins** based on s
 
 ### 4. 🟢 Raydium (RAY)
 
-- **Price:** $2.05
-- **24h Change:** +15.3%
-- **Volume:** $156,540,932
+- **Price:** $2.03
+- **24h Change:** +11.8%
+- **Volume:** $144,334,484
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:RAYUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/RAY_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/raydium)**
 
-### 5. 🔴 Bittensor (TAO)
+### 5. 🔴 NEAR Protocol (NEAR)
 
-- **Price:** $286.66
-- **24h Change:** -7.1%
-- **Volume:** $360,399,287
+- **Price:** $4.31
+- **24h Change:** -2.6%
+- **Volume:** $2,595,838,925
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:TAOUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/TAO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/bittensor)**
+- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
 ## 💡 How to Buy These Coins
 
