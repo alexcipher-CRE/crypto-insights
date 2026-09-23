@@ -93,13 +93,22 @@
              data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
-    <!-- Crypto donation widget (NOWPayments) -->
+    <!-- Crypto donation widget — works with ZERO signup, direct wallet sends -->
     <div class="crypto-donate">
-        <p><strong>☕ Buy me a coffee?</strong> Support this site with any cryptocurrency — all donations auto-convert to ETH and arrive in your wallet.</p>
-        <form id="nowpayments-form" action="https://pay.nowpayments.io/donate/btcpay/xecipher" method="get" target="_blank">
-            <button type="submit" class="donate-btn">Donate Crypto →</button>
-        </form>
-        <p><small>Sending to: <code>0xaB6D3246170E5cCbaF782EA622FD1158b7aaD05a</code> (Ethereum)</small></p>
+        <p><strong>☕ Support this site directly</strong> — any crypto sent here helps keep the engine running 24/7.</p>
+
+        <!-- Trust Wallet deep link (opens app to send screen, pre-filled) -->
+        <a href="https://link.trustwallet.com/send?address=0xaB6D3246170E5cCbaF782EA622FD1158b7aaD05a&asset=eth"
+           class="donate-btn" target="_blank">
+            Donate via Trust Wallet →
+        </a>
+
+        <!-- Direct address option (works with any wallet) -->
+        <p><small>Ethereum address: <code>0xaB6D3246170E5cCbaF782EA622FD1158b7aaD05a</code></small></p>
+        <p><small>Scan QR code with your wallet or send any ERC-20 token directly. No intermediary, no fees taken.</small></p>
+        <center>
+            <img src="/assets/images/wallet-qr.svg" alt="Wallet QR Code" width="120" height="120" style="margin: 1rem 0;">
+        </center>
     </div>
     <footer>
         <div class="container">
