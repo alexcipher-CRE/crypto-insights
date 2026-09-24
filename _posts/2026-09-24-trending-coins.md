@@ -6,64 +6,64 @@ tags: [crypto, trending, analysis]
 
 # 🔥 Top Trending Cryptocurrencies — Week of 2026-09-24
 
-*Last updated: 2026-09-24 09:40 UTC*
+*Last updated: 2026-09-24 11:41 UTC*
 
 The crypto market is moving fast. Here are the **top trending coins** based on social volume, search interest, and trading activity.
 
-### 1. 🔴 Hyperliquid (HYPE)
+### 1. 🔴 Edel (EDEL)
 
-- **Price:** $91.08
-- **24h Change:** -5.1%
-- **Volume:** $1,214,564,769
+- **Price:** $0.026735
+- **24h Change:** -11.1%
+- **Volume:** $1,995,116
+
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:EDELUSDT)
+
+- **[Trade on MEXC](https://www.mexc.com/trade/EDEL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/edel)**
+
+### 2. 🔴 Hyperliquid (HYPE)
+
+- **Price:** $90.93
+- **24h Change:** -4.4%
+- **Volume:** $1,158,618,837
 
 📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:HYPEUSDT)
 
 - **[Trade on MEXC](https://www.mexc.com/trade/HYPE_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/hyperliquid)**
 
-### 2. 🟢 Nillion (NIL)
+### 3. 🔴 Lighter (LIT)
 
-- **Price:** $0.134698
-- **24h Change:** +36.8%
-- **Volume:** $145,002,076
+- **Price:** $5.02
+- **24h Change:** -2.6%
+- **Volume:** $151,957,442
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NILUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:LITUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/NIL_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/nillion)**
-
-### 3. 🔴 NEAR Protocol (NEAR)
-
-- **Price:** $4.17
-- **24h Change:** -9.4%
-- **Volume:** $1,998,845,407
-
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
-
-- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
+- **[Trade on MEXC](https://www.mexc.com/trade/LIT_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/lighter)**
 
 <!-- Ad Slot: Mid-Content Leaderboard -->
 <div class="ad-slot ad-leaderboard">
   <small>[Advertisement — Your Ad Here]</small>
 </div>
 
-### 4. 🔴 Zcash (ZEC)
+### 4. 🔴 Uniswap (UNI)
 
-- **Price:** $1,492.30
-- **24h Change:** -7.3%
-- **Volume:** $1,583,080,136
+- **Price:** $9.02
+- **24h Change:** -7.0%
+- **Volume:** $1,313,770,272
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ZECUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:UNIUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/ZEC_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/zcash)**
+- **[Trade on MEXC](https://www.mexc.com/trade/UNI_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/uniswap)**
 
-### 5. 🟢 LayerZero (ZRO)
+### 5. 🔴 NEAR Protocol (NEAR)
 
-- **Price:** $1.49
-- **24h Change:** +1.4%
-- **Volume:** $243,246,543
+- **Price:** $4.26
+- **24h Change:** -6.2%
+- **Volume:** $1,903,381,642
 
-📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:ZROUSDT)
+📊 **Live chart:** [View on TradingView](https://www.tradingview.com/chart/?symbol=BINANCE:NEARUSDT)
 
-- **[Trade on MEXC](https://www.mexc.com/trade/ZRO_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/layerzero)**
+- **[Trade on MEXC](https://www.mexc.com/trade/NEAR_USDT?ref=YOUR_REF_ID)** | **[View on CoinGecko](https://www.coingecko.com/en/coins/near-protocol)**
 
 ## 💡 How to Buy These Coins
 
