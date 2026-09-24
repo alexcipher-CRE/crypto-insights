@@ -1,8 +1,113 @@
 {
   "status": "active",
-  "timestamp": "2026-09-23T23:35:47.946789+00:00",
+  "timestamp": "2026-09-24T01:36:48.331742+00:00",
   "version": "1.0",
   "data": [
+    {
+      "symbol": "EDEL",
+      "name": "Edel",
+      "price_usd": 0.027864862957507244,
+      "price_change_pct_24h": -7.413523734295337,
+      "volume_24h_usd": 2022633.0
+    },
+    {
+      "symbol": "NIL",
+      "name": "Nillion",
+      "price_usd": 0.1321428483134254,
+      "price_change_pct_24h": 45.98960374393598,
+      "volume_24h_usd": 174379727.0
+    },
+    {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "price_usd": 0.009614750493748532,
+      "price_change_pct_24h": -4.971031489070967,
+      "volume_24h_usd": 426247045.0
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "price_usd": 4.2390767809542735,
+      "price_change_pct_24h": -2.657639437078172,
+      "volume_24h_usd": 2548607966.0
+    },
+    {
+      "symbol": "PONS",
+      "name": "Pons",
+      "price_usd": 0.6354925900030262,
+      "price_change_pct_24h": -10.134106370954411,
+      "volume_24h_usd": 97400279.0
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price_usd": 84268.70058881909,
+      "price_change_pct_24h": -2.7078277717818953,
+      "volume_24h_usd": 43399969091.0
+    },
+    {
+      "symbol": "RAY",
+      "name": "Raydium",
+      "price_usd": 2.003819344520807,
+      "price_change_pct_24h": 9.208225313560021,
+      "volume_24h_usd": 158040581.0
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "price_usd": 9.267756065176169,
+      "price_change_pct_24h": -12.838012981523706,
+      "volume_24h_usd": 1628518176.0
+    },
+    {
+      "symbol": "DRV",
+      "name": "Derive",
+      "price_usd": 0.47137803366303044,
+      "price_change_pct_24h": -3.330275173887271,
+      "volume_24h_usd": 63132779.0
+    },
+    {
+      "symbol": "STONK",
+      "name": "STONK",
+      "price_usd": 0.3572509636677393,
+      "price_change_pct_24h": 11.885551825500935,
+      "volume_24h_usd": 43367537.0
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "price_usd": 1490.7503847996352,
+      "price_change_pct_24h": -7.287469797776704,
+      "volume_24h_usd": 1985571608.0
+    },
+    {
+      "symbol": "ALEO",
+      "name": "ALEO",
+      "price_usd": 0.03712594073547111,
+      "price_change_pct_24h": 124.39546662815854,
+      "volume_24h_usd": 10879287.0
+    },
+    {
+      "symbol": "LIT",
+      "name": "Lighter",
+      "price_usd": 5.400618343006933,
+      "price_change_pct_24h": 5.550810163383355,
+      "volume_24h_usd": 158475844.0
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "price_usd": 0.21620415211649052,
+      "price_change_pct_24h": -11.178864014863153,
+      "volume_24h_usd": 459008999.0
+    },
+    {
+      "symbol": "PEAQ",
+      "name": "peaq",
+      "price_usd": 0.03487512046101068,
+      "price_change_pct_24h": -6.209721718574949,
+      "volume_24h_usd": 5766223.0
+    },
     {
       "symbol": "EDEL",
       "name": "Edel",
@@ -247,111 +352,6 @@
       "price_usd": 4.394125927974738,
       "price_change_pct_24h": 0.2274838403602715,
       "volume_24h_usd": 2346251059.0
-    },
-    {
-      "symbol": "TAO",
-      "name": "Bittensor",
-      "price_usd": 290.51699440591204,
-      "price_change_pct_24h": -6.918280568561321,
-      "volume_24h_usd": 369845704.0
-    },
-    {
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "price_usd": 0.2198879171196389,
-      "price_change_pct_24h": 1.1886466535079288,
-      "volume_24h_usd": 534362829.0
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "price_usd": 1526.012205368315,
-      "price_change_pct_24h": 0.027340442820320835,
-      "volume_24h_usd": 2219099169.0
-    },
-    {
-      "symbol": "LIT",
-      "name": "Lighter",
-      "price_usd": 5.47706800475357,
-      "price_change_pct_24h": 13.043318664564445,
-      "volume_24h_usd": 149398918.0
-    },
-    {
-      "symbol": "PENGU",
-      "name": "Pudgy Penguins",
-      "price_usd": 0.009717443163340797,
-      "price_change_pct_24h": -1.0973845758304666,
-      "volume_24h_usd": 508681736.0
-    },
-    {
-      "symbol": "UNI",
-      "name": "Uniswap",
-      "price_usd": 9.185221640688251,
-      "price_change_pct_24h": -1.4764528003555832,
-      "volume_24h_usd": 2154364458.0
-    },
-    {
-      "symbol": "PONS",
-      "name": "Pons",
-      "price_usd": 0.6634619549497838,
-      "price_change_pct_24h": -2.1200819308676424,
-      "volume_24h_usd": 119885218.0
-    },
-    {
-      "symbol": "NIL",
-      "name": "Nillion",
-      "price_usd": 0.09997497135698111,
-      "price_change_pct_24h": 23.020910266105123,
-      "volume_24h_usd": 100715865.0
-    },
-    {
-      "symbol": "HYPE",
-      "name": "Hyperliquid",
-      "price_usd": 93.87361278834267,
-      "price_change_pct_24h": -2.9020408019156085,
-      "volume_24h_usd": 1243639067.0
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
-      "price_usd": 0.9683427827119309,
-      "price_change_pct_24h": -4.531144884506816,
-      "volume_24h_usd": 1128815628.0
-    },
-    {
-      "symbol": "ASTRO",
-      "name": "astronaut",
-      "price_usd": 0.046954151389948955,
-      "price_change_pct_24h": 6.555167469501375,
-      "volume_24h_usd": 48946909.0
-    },
-    {
-      "symbol": "EDEL",
-      "name": "Edel",
-      "price_usd": 0.02815495506316816,
-      "price_change_pct_24h": -9.920685299958661,
-      "volume_24h_usd": 1933497.0
-    },
-    {
-      "symbol": "PENGU",
-      "name": "Pudgy Penguins",
-      "price_usd": 0.00964344758361543,
-      "price_change_pct_24h": 2.5085121644569988,
-      "volume_24h_usd": 539678203.0
-    },
-    {
-      "symbol": "RAY",
-      "name": "Raydium",
-      "price_usd": 2.0668588862007473,
-      "price_change_pct_24h": 16.00656158431083,
-      "volume_24h_usd": 131700582.0
-    },
-    {
-      "symbol": "LIT",
-      "name": "Lighter",
-      "price_usd": 5.352615213354917,
-      "price_change_pct_24h": 10.525074950877892,
-      "volume_24h_usd": 141958461.0
     }
   ],
   "paywall": "0.000001 ETH equivalent to remove rate limits",
