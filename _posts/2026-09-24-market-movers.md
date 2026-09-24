@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-24
 
-*Last updated: 2026-09-24 07:39 UTC*
+*Last updated: 2026-09-24 09:40 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,15 +14,15 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Litecoin (LTC) | $68.23 | +7.6% | $984,368,604 |
+| Litecoin (LTC) | $67.30 | +7.4% | $993,376,571 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Uniswap (UNI) | $9.29 | -11.0% | $1,412,470,633 |
-| Avalanche (AVAX) | $10.27 | -7.7% | $599,833,510 |
-| XRP (XRP) | $1.51 | -6.7% | $5,095,969,935 |
+| Uniswap (UNI) | $8.88 | -12.0% | $1,382,513,445 |
+| Avalanche (AVAX) | $10.09 | -9.0% | $616,142,012 |
+| XRP (XRP) | $1.46 | -8.4% | $4,873,422,846 |
 
 ## 📊 Key Takeaways
 
