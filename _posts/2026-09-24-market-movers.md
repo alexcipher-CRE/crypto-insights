@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-24
 
-*Last updated: 2026-09-24 11:41 UTC*
+*Last updated: 2026-09-24 13:41 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,15 +14,16 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Litecoin (LTC) | $66.52 | +7.3% | $1,053,227,127 |
+| Ondo (ONDO) | $0.485359 | +12.4% | $580,634,884 |
+| Litecoin (LTC) | $69.07 | +10.2% | $1,195,528,094 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Zcash (ZEC) | $1,483.70 | -8.1% | $1,424,626,056 |
-| Avalanche (AVAX) | $10.15 | -7.9% | $593,339,430 |
-| Uniswap (UNI) | $9.00 | -7.1% | $1,307,346,870 |
+| Zcash (ZEC) | $1,520.78 | -7.1% | $1,534,387,828 |
+| Dogecoin (DOGE) | $0.094230 | -5.7% | $1,544,344,001 |
+| Bitcoin Cash (BCH) | $337.15 | -5.0% | $764,371,951 |
 
 ## 📊 Key Takeaways
 
