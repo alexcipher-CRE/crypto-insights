@@ -6,7 +6,7 @@ tags: [crypto, market, analysis]
 
 # 📈 Crypto Market Movers — 2026-09-25
 
-*Last updated: 2026-09-25 05:50 UTC*
+*Last updated: 2026-09-25 07:50 UTC*
 
 Today's biggest movers in the crypto market.
 
@@ -14,17 +14,18 @@ Today's biggest movers in the crypto market.
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Ondo (ONDO) | $0.532126 | +23.8% | $1,200,036,617 |
-| Chainlink (LINK) | $13.43 | +8.3% | $737,039,382 |
-| Sui (SUI) | $1.01 | +5.1% | $909,202,089 |
-| Litecoin (LTC) | $71.06 | +5.1% | $1,475,378,277 |
-| Cardano (ADA) | $0.247574 | +2.8% | $569,067,761 |
+| Ondo (ONDO) | $0.556983 | +25.9% | $1,278,367,782 |
+| Chainlink (LINK) | $13.44 | +7.8% | $770,264,670 |
+| NEAR Protocol (NEAR) | $4.50 | +5.0% | $1,382,491,601 |
+| Sui (SUI) | $1.01 | +4.2% | $905,849,408 |
+| Litecoin (LTC) | $71.53 | +4.2% | $1,419,358,034 |
 
 ## 🔴 Top Losers (24h)
 
 | Coin | Price | 24h Change | Volume |
 |------|-------|-------------|--------|
-| Uniswap (UNI) | $9.15 | -1.6% | $893,198,437 |
+| Uniswap (UNI) | $9.09 | -1.9% | $842,516,412 |
+| Hyperliquid (HYPE) | $92.82 | -1.3% | $1,240,607,631 |
 
 ## 📊 Key Takeaways
 
