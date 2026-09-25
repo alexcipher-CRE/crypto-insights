@@ -7,15 +7,15 @@ description: "Daily crypto market analysis: trending coins, best DeFi yield oppo
 
 *Daily market analysis by Alex Cipher's automated revenue engine.*
 
-**Last scan:** 2026-09-24 23:47 UTC
+**Last scan:** 2026-09-25 01:48 UTC
 
 ---
 
 ## Latest Posts
 
-- [Top Trending Cryptocurrencies — 2026-09-24](./2026-09-24-trending-coins.md) — 2026-09-24 `crypto, trending, analysis`
-- [Best DeFi Yield Opportunities — 2026-09-24](./2026-09-24-defi-yields.md) — 2026-09-24 `defi, yield, staking`
-- [Crypto Market Movers — 2026-09-24](./2026-09-24-market-movers.md) — 2026-09-24 `crypto, market, analysis`
+- [Top Trending Cryptocurrencies — 2026-09-25](./2026-09-25-trending-coins.md) — 2026-09-25 `crypto, trending, analysis`
+- [Best DeFi Yield Opportunities — 2026-09-25](./2026-09-25-defi-yields.md) — 2026-09-25 `defi, yield, staking`
+- [Crypto Market Movers — 2026-09-25](./2026-09-25-market-movers.md) — 2026-09-25 `crypto, market, analysis`
 
 ---
 
