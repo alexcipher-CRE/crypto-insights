@@ -7,9 +7,9 @@ description: "Step-by-step guide to buying Ondo (ONDO) from Singapore. Compare e
 
 # 📖 How to Buy Ondo (ONDO) — Complete Beginner's Guide
 
-*Updated: September 25, 2026 | Price: $0.530802*
+*Updated: September 25, 2026 | Price: $0.528336*
 
-🪙 **Ondo (ONDO)** is currently trading at **$0.530802**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
+🪙 **Ondo (ONDO)** is currently trading at **$0.528336**. If you're new to crypto and wondering how to buy it from Singapore, this step-by-step guide walks you through everything.
 
 ---
 
@@ -17,9 +17,9 @@ description: "Step-by-step guide to buying Ondo (ONDO) from Singapore. Compare e
 
 | Metric | Value |
 |--------|-------|
-| **Current price** | $0.530802 |
-| **24h change** | +29.3% |
-| **24h volume** | $1,130,199,325 |
+| **Current price** | $0.528336 |
+| **24h change** | +27.0% |
+| **24h volume** | $1,157,829,779 |
 | **Where to buy** | [MEXC](https://mexc.com/Register?ref=YOUR_REF_ID) · [KuCoin](https://www.kucoin.com/affiliate/YOUR_REF_ID) · [Phemex](https://phemex.com/sign-up?ref=YOUR_REF_ID) |
 
 ---
@@ -91,11 +91,11 @@ Choose your deposit method:
 
 ## Analysis
 
-As of September 25, 2026, **Ondo** trades at **$0.530802**.
+As of September 25, 2026, **Ondo** trades at **$0.528336**.
 
 **Market context:**
-- 24h change: +29.3%
-- 24h volume: $1,130,199,325
+- 24h change: +27.0%
+- 24h volume: $1,157,829,779
 
 **Tracking links:**
 - [TradingView chart](https://tradingview.com/chart/?symbol=BINANCE:ONDOUSDT)
